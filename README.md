@@ -78,4 +78,9 @@
 - **Time Spent**: 4 hours.
 
 ## Screenshots
-_(Add screenshots of the game interface here)_
+![image](https://github.com/user-attachments/assets/56b18a38-ca6f-43b3-8638-680af732b72e)
+![image](https://github.com/user-attachments/assets/cb353698-9987-40b3-99db-cb1b1689e5ca)
+![image](https://github.com/user-attachments/assets/68031d02-3bb0-4185-8d44-0d9d92e6acd8)
+
+
+
